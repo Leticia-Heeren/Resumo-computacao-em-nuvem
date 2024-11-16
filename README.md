@@ -1,4 +1,5 @@
 Na aula de computação em nuvem, aprendi que computação em nuvem é o uso de serviços como servidores e armazenamento pela internet, sem precisar ter esses recursos fisicamente no seu computador ou empresa.
+
 Existem três modelos de nuvem:
 Público: A infraestrutura é gerida por um provedor e compartilhada com outras empresas. Exemplos são AWS e Google Cloud.
 Privado: A infraestrutura é exclusiva para uma empresa, que pode manter seus próprios servidores ou contratar um provedor para gerenciar tudo.
