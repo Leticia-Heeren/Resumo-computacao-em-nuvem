@@ -1,0 +1,1 @@
+# Resumo-computa-o-em-nuvem
